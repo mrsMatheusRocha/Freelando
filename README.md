@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+# Freelando
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Freelando Banner](https://img.shields.io/badge/Freelando-Freelancer%20Hub-blueviolet?style=for-the-badge)
+![React](https://img.shields.io/badge/React-UI%20Library-61dafb?logo=react&logoColor=white&style=flat-square)
+![Emotion](https://img.shields.io/badge/Emotion-CSS%20in%20JS-ff69b4?logo=emotion&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-84.9%25-yellow?style=flat-square)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## ✨ Sobre o Projeto
 
-### `npm start`
+**Freelando** é uma plataforma desenvolvida com **React** e **Emotion** para conectar freelancers a oportunidades de trabalho. Com uma interface moderna, responsiva e estilosa, o objetivo é facilitar a busca por projetos e promover talentos em uma comunidade colaborativa.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Funcionalidades Principais
 
-### `npm test`
+- **Cadastro de Freelancers:** Perfis personalizados para profissionais autônomos.
+- **Publicação de Projetos:** Empresas e clientes podem divulgar vagas e propostas.
+- **Busca Inteligente:** Encontre rapidamente o profissional ou projeto ideal.
+- **Sistema de Avaliações:** Feedback transparente para todos os envolvidos.
+- **Interface Amigável:** Experiência intuitiva e visualmente agradável.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🛠️ Tecnologias Utilizadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" alt="Emotion" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+</div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **React** – Criação de interfaces dinâmicas e componentes reutilizáveis
+- **Emotion** – Estilização com CSS-in-JS, temas e animações elegantes
+- **JavaScript** – Lógica, interatividade e integração de dados
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🎨 Visualização
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screenshot do Freelando](https://placehold.co/900x400?text=Freelando+Screenshot)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📦 Como executar o projeto
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+# Clone o repositório
+git clone https://github.com/mrsMatheusRocha/Freelando.git
 
-## Learn More
+# Acesse a pasta do projeto
+cd Freelando
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Instale as dependências
+npm install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Inicie o projeto
+npm start
+```
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🤝 Contribuindo
 
-### Analyzing the Bundle Size
+Quer colaborar? Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Faça um fork do projeto
+2. Crie uma branch (`git checkout -b feature/NomeDaFuncionalidade`)
+3. Commit suas alterações (`git commit -m 'feat: Minha melhoria'`)
+4. Push na branch (`git push origin feature/NomeDaFuncionalidade`)
+5. Abra um Pull Request
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 👤 Autor
 
-### Advanced Configuration
+Desenvolvido por [Matheus Rocha](https://github.com/mrsMatheusRocha) 🚀
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> _Freelando: sua ponte para o mundo freelancer!_
