@@ -39,7 +39,7 @@
 
 ## 🎨 Visualização
 
-![Screenshot do Freelando](https://placehold.co/900x400?text=Freelando+Screenshot)
+![Screenshot do Freelando](https://github.com/mrsMatheusRocha/Freelando/blob/master/public/freelando.png?raw=true)
 
 ---
 
