@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# Freelando
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Freelando Banner](https://img.shields.io/badge/Freelando-Freelancer%20Hub-blueviolet?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-84.9%25-yellow?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-11.8%25-orange?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-3.3%25-9cf?style=flat-square)
 
-## Available Scripts
+## ✨ Sobre o Projeto
 
-In the project directory, you can run:
+**Freelando** é uma plataforma pensada para conectar freelancers com oportunidades de trabalho. O objetivo é facilitar a busca por projetos, promover talentos e criar uma comunidade colaborativa e vibrante.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Funcionalidades Principais
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Cadastro de Freelancers:** Perfis personalizados para profissionais autônomos.
+- **Publicação de Projetos:** Empresas e clientes podem divulgar vagas e propostas.
+- **Busca Inteligente:** Encontre rapidamente o profissional ou projeto ideal.
+- **Sistema de Avaliações:** Feedback transparente para todos os envolvidos.
+- **Interface Amigável:** Experiência intuitiva e visualmente agradável.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tecnologias Utilizadas
 
-### `npm run build`
+<div style="display: flex; gap: 20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+</div>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **JavaScript** – lógica, interatividade, integração de dados
+- **HTML5** – estrutura das páginas
+- **CSS3** – estilização, responsividade e animações
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🎨 Visualização
 
-### `npm run eject`
+![Screenshot do Freelando](https://placehold.co/900x400?text=Freelando+Screenshot)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📦 Como executar o projeto
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+# Clone o repositório
+git clone https://github.com/mrsMatheusRocha/Freelando.git
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Acesse a pasta do projeto
+cd Freelando
 
-## Learn More
+# Instale as dependências (se houver)
+npm install
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Inicie o projeto
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 🤝 Contribuindo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Quer colaborar? Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias!
 
-### Analyzing the Bundle Size
+1. Faça um fork do projeto
+2. Crie uma branch (`git checkout -b feature/NomeDaFuncionalidade`)
+3. Commit suas alterações (`git commit -m 'feat: Minha melhoria'`)
+4. Push na branch (`git push origin feature/NomeDaFuncionalidade`)
+5. Abra um Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 👤 Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Desenvolvido por [Matheus Rocha](https://github.com/mrsMatheusRocha) 🚀
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> _Freelando: sua ponte para o mundo freelancer!_
