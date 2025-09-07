@@ -1,13 +1,15 @@
 # Freelando
 
 ![Freelando Banner](https://img.shields.io/badge/Freelando-Freelancer%20Hub-blueviolet?style=for-the-badge)
+![React](https://img.shields.io/badge/React-UI%20Library-61dafb?logo=react&logoColor=white&style=flat-square)
+![Emotion](https://img.shields.io/badge/Emotion-CSS%20in%20JS-ff69b4?logo=emotion&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-84.9%25-yellow?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-11.8%25-orange?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-3.3%25-9cf?style=flat-square)
+
+---
 
 ## ✨ Sobre o Projeto
 
-**Freelando** é uma plataforma pensada para conectar freelancers com oportunidades de trabalho. O objetivo é facilitar a busca por projetos, promover talentos e criar uma comunidade colaborativa e vibrante.
+**Freelando** é uma plataforma desenvolvida com **React** e **Emotion** para conectar freelancers a oportunidades de trabalho. Com uma interface moderna, responsiva e estilosa, o objetivo é facilitar a busca por projetos e promover talentos em uma comunidade colaborativa.
 
 ---
 
@@ -23,15 +25,15 @@
 
 ## 🛠️ Tecnologias Utilizadas
 
-<div style="display: flex; gap: 20px;">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" alt="Emotion" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
 </div>
 
-- **JavaScript** – lógica, interatividade, integração de dados
-- **HTML5** – estrutura das páginas
-- **CSS3** – estilização, responsividade e animações
+- **React** – Criação de interfaces dinâmicas e componentes reutilizáveis
+- **Emotion** – Estilização com CSS-in-JS, temas e animações elegantes
+- **JavaScript** – Lógica, interatividade e integração de dados
 
 ---
 
@@ -50,7 +52,7 @@ git clone https://github.com/mrsMatheusRocha/Freelando.git
 # Acesse a pasta do projeto
 cd Freelando
 
-# Instale as dependências (se houver)
+# Instale as dependências
 npm install
 
 # Inicie o projeto
